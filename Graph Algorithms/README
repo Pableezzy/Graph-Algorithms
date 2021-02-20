@@ -18,7 +18,7 @@ README
 
 Program Summary:
 
-This program will implement a Graph ADT, Graph.c/Graph.h, and run the Breath First Search (BFS) and the Depth First Search (DFS) Algorithms 
+This program will implement a Graph ADT, Graph.c/Graph.h, and run the Breadth First Search (BFS) and the Depth First Search (DFS) Algorithms 
 on the Graph. In the FindComponents.c file, the program takes input vertices in a file and writes the Adjacency List of the vertices, as well as 
 finds the strongly connected components of a digraph. It prints the result to an output file. In the FindPath.c file, the program outputs 
 the distance from the source vertex to the destination, and prints the shortest path within an output file.
