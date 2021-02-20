@@ -1,0 +1,28 @@
+Intro to Data Structures & Algorithms
+Date: January 27, 2021
+Name: Pablo Zepeda
+
+------------------------------------------------------
+
+Files Included:
+
+List.c
+List.h
+Graph.c
+Graph.h
+GraphTest.c
+FindComponents.c
+FindPath.c
+Makefile
+README
+
+Program Summary:
+
+This program will implement a Graph ADT, Graph.c/Graph.h, and run the Breath First Search (BFS) and the Depth First Search (DFS) Algorithms 
+on the Graph. In the FindComponents.c file, the program takes input vertices in a file and writes the Adjacency List of the vertices, as well as 
+finds the strongly connected components of a digraph. It prints the result to an output file. In the FindPath.c file, the program outputs 
+the distance from the source vertex to the destination, and prints the shortest path within an output file.
+
+Note: The Adjacency List is a doubly linked-list implemented in the List.c and List.h files.
+
+Compile code with Makefile
